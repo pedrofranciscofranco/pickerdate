@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Formulario Contacto</string>
+    <string name="pick_date">pick_date</string>
+    <string name="Setdate">Set date</string>
+    <string name="Fnacimiento">Fecha Nacimiento</string>
+    <string name="ok">OK</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripci_n_contacto">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="tvnombre">TVnombre</string>
+    <string name="tvfecha">TVfecha</string>
+    <string name="tvtelefono">TVtelefono</string>
+    <string name="tvemail">TVemail</string>
+    <string name="tvdescripcion">TVdescripcion</string>
+    <string name="editar">Editar Datos</string>
+    <string name="datosactividad1">datosactividad1</string>
+    <string name="datosactividad2">datosactividad2</string>
+    <string name="fecha">fecha</string>
+    <string name="editarfecha">editarfecha</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+</resources>
